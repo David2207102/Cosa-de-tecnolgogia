@@ -1,0 +1,112 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 100px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("lamejorcosaenlaexistencia.jpg");
+    background-repeat: repeat;
+
+}
+.AIlogo {
+background-image: url(fuckyouyoudick.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+}
+.lacreatura {
+    background-image: url(lol.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+.lol {
+background-image: url(soybi.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+
+}
+.titulo {
+ font-size: 100px;
+ padding-top: 280px;
+ text-align: center;
+ color: white;
+
+}
+.muitotonto {
+background-image: url(muitotonto.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+
+}
+.imgexcel {
+    background-image: url(profesorhdp.jpg);
+    background-repeat: no-repeat;
+    height: 267px;
+    width: 400px;
+}
+.conceptual {
+background-image: url(conceptual.PNG);
+background-repeat: no-repeat;
+width: 866px;
+height: 485px;
+
+}
+.ejemplosuma {
+    background-image: url(ejemplosuma.jpg);
+    background-repeat: no-repeat;
+    width: 307px;
+    height: 159px;
+}
+.ejemplopromedio {
+    background-image: url(ejemplopromedio.png);
+    background-repeat: no-repeat;
+    width: 291px;
+    height: 307px;
+}
+.ejemplocontar {
+    background-image: url(ejemplocontar.png);
+    background-repeat: no-repeat;
+    width: 260px;
+    height: 194px;
+}
+.ejemploconcat {
+    background-image: url(ejemploconcat.png);
+    background-repeat: no-repeat;
+    width: 365px;
+    height: 138px;
+}
+.ejemplomayuscminusc {
+    background-image: url(ejemplomayuscminusc.png);
+    background-repeat: no-repeat;
+    width: 321px;
+    height: 121px;
+}
+.ejemploizquierda {
+    background-image: url(ejemploizquierda.png);
+    background-repeat: no-repeat;
+    width: 487px;
+    height: 133px;
+}
+.ejemploderecha {
+    background-image: url(ejemploderecha.png);
+    background-repeat: no-repeat;
+    width: 368px;
+    height: 110px;
+}
+.ejemploextrae {
+    background-image: url(ejemploextrae.png);
+    background-repeat: no-repeat;
+    width: 374px;
+    height: 108px;
+}
